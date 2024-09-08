@@ -9,10 +9,9 @@
 - 💬 How to reach me: sadhanasapkotaa@gmail.com
 - 💻 Portfolio: https://sadhanasapkota.com.np
 
-<br/><br/><br/>
+<br/>
 Wanna know more? <br/>
 ⚡**I love hackathons. I have won 6 of them!**
-
-<br/><br/><br/>
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadhanasapkotaa&" alt="sadhanasapkotaa" /></p>
