@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning Data science with Python.
 - 😄 I’m looking to collaborate on tech projects and startups.
 - 💬 How to reach me: sadhanasapkotaa@gmail.com
+-  Portfolio: https://sadhanasapkota.com.np
 
 
 Wanna know more? <br/>
