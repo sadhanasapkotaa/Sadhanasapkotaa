@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a Multivendor e-commerce app in Django.
 - 🌱 I’m currently learning Data Science with Python.
-- 😄 I’m looking to collaborate on tech projects and startups.
+- 😄 I’m looking to collaborate on tech projects, researches and startups.
 - 💬 How to reach me: sadhanasapkotaa@gmail.com
 - 💻 Portfolio: https://sadhanasapkota.com.np
 
